@@ -1,10 +1,7 @@
 {
-  "Notebook": {
-    "Export to modules": "/export",
-    "Convert to html": "/export2html",
-    "Show doc": "/showdoc",
-    "Test functions": "/test",
-    "Core functions": "/core",
-    "Command line functions": "/cli"
+  "semeval2019_task3": {
+    "Overview": "/",
+    "FastBert": "/fastbert",
+    "FastBert for SemEval-2019 Task 3": "/task3"
   }
 }
